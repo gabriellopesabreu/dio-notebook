@@ -1,1 +1,0 @@
-Diretorio com a função de anotações de scripts
