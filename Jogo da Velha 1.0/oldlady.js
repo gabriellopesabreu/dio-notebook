@@ -127,3 +127,4 @@ function restart(){
         squad.style.color = '#eee';
     }
     changePlayer('X');
+}
